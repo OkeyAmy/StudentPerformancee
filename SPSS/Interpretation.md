@@ -1,6 +1,6 @@
 ## Descriptive Statistics
 
-The descriptive statistics table provides information on three variables: mathscore, readingscore, and writingscore. Here are some observations based on the statistics:
+The descriptive statistics table provides information on three variables: math scores, reading scores, and writing scores. Here are some observations based on the statistics:
 
 - Range: The range of math scores is 100, the reading score is 83, and the writing score is 90. This indicates that math scores vary more widely compared to the other two.
 - Mean: The mean math score is 66.09, reading score is 69.17, and writing score is 68.05. This indicates that the average math score is lower than the other two scores.
