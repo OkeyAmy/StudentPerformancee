@@ -27,3 +27,7 @@ I performed a bar chart visualization on several categorical variables. Here are
 ## Correlation Analysis on the Dependent Variable
 
 The correlation analysis reveals strong positive correlations between reading scores, math scores, and writing scores. Both the Pearson correlation matrix and the Nonparametric Correlations indicate a significant positive relationship among the scores. This suggests that as one of these scores increases, the others also tend to increase. 
+
+
+![image](https://github.com/OkeyAmy/StudentPerformancee/assets/92605808/1b866e49-a7c4-453d-a6de-326cbd7f773c)
+The histogram graph visually represents the distribution of scores based on the genders of students. It provides a graphical representation that showcases the relationship between gender and scores
