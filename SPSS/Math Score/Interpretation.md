@@ -30,4 +30,7 @@ The correlation analysis reveals strong positive correlations between reading sc
 
 
 ![image](https://github.com/OkeyAmy/StudentPerformancee/assets/92605808/1b866e49-a7c4-453d-a6de-326cbd7f773c)
+
 The histogram graph visually represents the distribution of scores based on the genders of students. It provides a graphical representation that showcases the relationship between gender and scores
+
+
